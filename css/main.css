@@ -1,5 +1,5 @@
 body{
-    background-image: url(/img/back.jpg);
+    background-image: url(../img/back.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -33,7 +33,7 @@ body{
 .btn{
     width: 25px;
     height: 25px;
-    background-image: url(/img/search.png);
+    background-image: url(../img/search.png);
     background-size: cover;
      position: relative;
     vertical-align: middle;
@@ -186,6 +186,4 @@ input[type="checkbox"]:checked + label:after {
 tr .action1 i {
     display: table-cell;
     text-align: right;
-  
-    
 }

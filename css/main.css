@@ -192,10 +192,6 @@ h3 p {
     margin-bottom:20px;
     margin-left:15px;
     position:relative;
-
-   
-
-    
 }
 
 .list2 ul li img {
@@ -212,7 +208,6 @@ h3 p {
 .table tr:nth-child(odd) {
     background-color: grey;
 }
-
 .table {
     margin: auto;
     font-family: 'Pacifico', cursive;
@@ -220,12 +215,10 @@ h3 p {
     border-collapse: collapse;
    
 }
-
 .table tr td {
     border: 1px solid black;
     
 }
-
 .table tr td:last-child {
     width: 200px;
     table-layout: fixed;
@@ -279,7 +272,7 @@ h3 p {
 
 }
 @media screen and (max-width: 750px){
-.table {
+.table tr {
     overflow: scroll;
    
 }
